@@ -32,29 +32,16 @@ identity and access management.
 
 ## Implementation Steps
 
-### Identified Locked or Expired Account
-
-Using Active Directory Users and Computers, a user account with either a
-locked status or expired password was located. Account properties were
-reviewed to confirm the account condition.
-
 ### Reset User Password
 
 The password was reset using ADUC administrative tools. A new temporary
 password was assigned, and the option requiring the user to change their
 password at next logon was enabled to follow standard security
 practices.
+<img width="1919" height="1079" alt="Changing Users Password" src="https://github.com/user-attachments/assets/9c8acfdc-709e-4367-8af9-162ba41b5f69" />
 
-### Unlocked Account (If Applicable)
-
-If the account was locked due to failed login attempts, it was manually
-unlocked within the account properties settings.
-
-### Verified Successful Login
-
-The user account was tested to confirm successful authentication after
-the reset. This validated that the password reset and account
-restoration were properly completed.
+### Verified Successful Change
+<img width="1919" height="1079" alt="Password changed" src="https://github.com/user-attachments/assets/cfe02ac6-3500-4a47-9dbd-f6957fa2aad9" />
 
 ------------------------------------------------------------------------
 
