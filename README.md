@@ -81,7 +81,3 @@ of access within a domain environment.
 -   Implement fine-grained password policies
 
 ------------------------------------------------------------------------
-
-## Author
-
-Home Lab Project -- Active Directory Password Reset & Account Recovery
