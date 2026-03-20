@@ -1,3 +1,5 @@
+Watch me build this lab here! https://www.loom.com/share/c57b76a9684c407d869e9f3296e155d6
+
 # Active Directory Home Lab: Password Reset & Account Unlock
 
 ## Project Summary
